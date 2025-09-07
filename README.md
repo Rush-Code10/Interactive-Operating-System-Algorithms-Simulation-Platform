@@ -4,8 +4,12 @@ Interactive desktop app for visualizing CPU scheduling and page replacement algo
 
 ## Quick Start
 
+**Install Library**
 ```bash
 pip install matplotlib
+```
+**Run the Simulator**
+```bash
 python tkinter_simulator.py
 ```
 
