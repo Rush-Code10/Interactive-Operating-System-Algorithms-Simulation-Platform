@@ -17,11 +17,11 @@ python tkinter_simulator.py
 
 ## Features
 
-✅ **Visual Results** - Gantt charts and frame state diagrams  
-✅ **Algorithm Comparison** - Side-by-side performance analysis  
-✅ **Real-time Scheduling** - EDF with deadline visualization  
-✅ **Workload Generator** - Create realistic test scenarios  
-✅ **No Web Server** - Pure desktop app, works offline
+1. **Visual Results** - Gantt charts and frame state diagrams  
+2. **Algorithm Comparison** - Side-by-side performance analysis  
+3. **Real-time Scheduling** - EDF with deadline visualization  
+4. **Workload Generator** - Create realistic test scenarios  
+5. **No Web Server** - Pure desktop app, works offline
 
 ## Example Input
 
