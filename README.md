@@ -1,4 +1,4 @@
-# OS Algorithms Simulator 🖥️
+# Interactive Operating System Algorithms Simulation Platform
 
 Interactive desktop app for visualizing CPU scheduling and page replacement algorithms.
 
